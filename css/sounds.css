@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: rgb(161, 100, 123);
+    background-color: rgb(161, 100, 223);
     display: flex;
     align-items:center;
     justify-content:center;
@@ -9,4 +9,14 @@ body {
     text-align:center;
     margin:0;
     overflow: hidden;
+}
+
+.btn {
+    background-color: rebeccapurple;
+    color:white;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 1rem;
+
 }
