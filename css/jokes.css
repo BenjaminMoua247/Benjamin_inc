@@ -11,9 +11,17 @@ body{
 }
 
 .btn{
-    border:none;
-    border-radius: 5px;
+    background-color: forestgreen;
+    color: white;
+    border: 0;
+    border-radius: 10px;
     cursor:pointer;
+    padding: 14px 40px;
+    font-size:16px;
+}
+
+.btn:active{
+    transform: scale(.95);
 }
 
 .btn:hover{
@@ -25,11 +33,11 @@ body{
     border-radius: 10px;
     text-align: center;
     width: 800px;
+    padding: 50px 20px;
 }
 
 h3 {
     margin:0;
-    opacity: 0.5;
     letter-spacing: 2px;
 }
 
