@@ -28,7 +28,7 @@ body {
 }
 
 
-@media (max-width: 580px) {
+@media (max-width: 1200px) {
     body {
         flex-direction: column;
     }

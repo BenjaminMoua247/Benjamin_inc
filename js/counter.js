@@ -14,4 +14,5 @@ counters.forEach(counter => {
             counter.innerText = `${Math.ceil(c + increment)}`
         }
     }
+    updateCounter()
 })
