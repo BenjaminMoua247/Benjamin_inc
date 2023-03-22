@@ -5,7 +5,7 @@ let load = 0
 blurring()
 function blurring(){
     load++;
-    bg.style.filter = ``
-    loadText.innerText = "load"
+    loadText.innerText = `${load}`
+    bg.style.filter = "blur(5px)"
     loadText.style.opacity = "0.5"
 }
