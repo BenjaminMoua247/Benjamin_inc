@@ -1,6 +1,11 @@
 const bg = document.querySelector('.bg')
 const loadText = document.querySelector('.loading-text')
 
-bg.style.filter = "blur(5px)"
-loadText.innerText = "HELLO"
-loadText.style.opacity = "0.5"
+let load = 0
+blurring()
+function blurring(){
+    load++;
+    bg.style.filter = ``
+    loadText.innerText = "load"
+    loadText.style.opacity = "0.5"
+}

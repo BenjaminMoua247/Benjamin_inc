@@ -13,7 +13,7 @@ body{
 .bg{
     background: url('https://upload.wikimedia.org/wikipedia/commons/1/15/Yosemite_national_park_lake_rocks_mountains_autumn_nature.jpg')
     no-repeat center center/cover;
-    width: 100vh;
+    width: 100vw;
     height: 100vh;
     filter: blur(30px);
     z-index: -1;
