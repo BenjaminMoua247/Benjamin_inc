@@ -19,14 +19,14 @@ body {
 
 
 .square {
-    height: 16px;
-    width: 16px;
+    height: 1px;
+    width: 1px;
     background-color: #1d1d1d;
     margin: 2px;
     transition: 2s ease;
 }
 
 
-.square: hover {
+.square:hover {
     transition-duration: 0s;
 }
