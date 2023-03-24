@@ -9,12 +9,13 @@ body{
     justify-content:center;
     margin:0;
     overflow:hidden;
-    background-color: ;
+    background-color: lightsalmon;
 
 }
 
 div{
     position: absolute;
     bottom: 20px;
+    background: rgba(0,0,0,0.1)
 
 }
