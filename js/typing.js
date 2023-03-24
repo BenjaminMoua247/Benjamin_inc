@@ -2,7 +2,7 @@ const textEl = document.getElementById('text')
 const speedEl = document.getElementById('speed')
 const text = 'Bem-00sk'
 let idx=1
-let speed = 300/speedEl.val
+let speed = 300
 
 writeText()
 
@@ -14,5 +14,5 @@ function writeText(){
         idx = 1
     }
 
-    setTimeout(write)
+    setTimeout(writeText, speed)
 }
