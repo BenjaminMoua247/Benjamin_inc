@@ -13,7 +13,7 @@ body {
     background-color: #FFFAA0;
 }
 
-.search{
+.home{
     height: 50px;
     position: relative;
 }
@@ -100,28 +100,28 @@ body {
     border-radius:50px;
 }
 
-.search.active .panel1{
+.home.active .panel1{
     transform: translatey(50px);
 
 }
-.search.active .panel2{
+.home.active .panel2{
     transform: translatey(-50px);
 
 }
-.search.active .panel3{
+.home.active .panel3{
     transform: translatex(-50px);
 
 }
-.search.active .panel4{
+.home.active .panel4{
     transform: translatex(50px);
 
 }
-.search.active .panel5{
+.home.active .panel5{
     transform: translatey(100px);
 
 }
 
-.search.active .btn{
+.home.active .btn{
     transform: translatex(0px);
 }
 
