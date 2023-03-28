@@ -128,7 +128,3 @@ body {
 .panel:focus, .btn:focus{
     outline: none;
 }
-
-.btn:active {
-    transform: scale(.95);
-}
