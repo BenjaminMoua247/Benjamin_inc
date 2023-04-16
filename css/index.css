@@ -120,6 +120,26 @@ body {
     transform: translatey(100px);
 
 }
+.home.active .panel6{
+    transform: translatey(50px);
+
+}
+.home.active .panel7{
+    transform: translatey(-50px);
+
+}
+.home.active .panel8{
+    transform: translatex(-50px);
+
+}
+.home.active .panel9{
+    transform: translatex(50px);
+
+}
+.home.active .panel10{
+    transform: translatey(100px);
+
+}
 
 .home.active .btn{
     transform: translatex(0px);
