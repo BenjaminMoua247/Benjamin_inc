@@ -122,6 +122,7 @@ body {
 }
 .home.active .panel6{
     transform: translatey(50px);
+    transform: translatex(50px);
 
 }
 .home.active .panel7{
