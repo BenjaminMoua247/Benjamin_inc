@@ -28,7 +28,7 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:0;
+    opacity:1;
     position:absolute;
 
 }
@@ -41,7 +41,7 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:0;
+    opacity:1;
     position:absolute;
 
 }
@@ -54,7 +54,7 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:0;
+    opacity:1;
     position:absolute;
 
 }
@@ -67,7 +67,7 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:0;
+    opacity:1;
     position: absolute;
 
 }
@@ -80,7 +80,7 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:0;
+    opacity:1;
     position:absolute;
 
 }
@@ -186,24 +186,24 @@ body {
 
 }
 .home.active .panel6{
-    transform: translatey(500px);
-    transform: translatex(500px);
+    transform: translatey(200px);
+    transform: translatex(200px);
 
 }
 .home.active .panel7{
-    transform: translatey(-500px);
+    transform: translatey(-200px);
 
 }
 .home.active .panel8{
-    transform: translatex(-50px);
+    transform: translatex(-200px);
 
 }
 .home.active .panel9{
-    transform: translatex(50px);
+    transform: translatex(200px);
 
 }
 .home.active .panel10{
-    transform: translatey(100px);
+    transform: translatey(200px);
 
 }
 
