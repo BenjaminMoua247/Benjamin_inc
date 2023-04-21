@@ -28,7 +28,7 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:1;
+    opacity:0;
     position:absolute;
 
 }
@@ -41,7 +41,7 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:1;
+    opacity:0;
     position:absolute;
 
 }
@@ -54,7 +54,7 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:1;
+    opacity:0;
     position:absolute;
 
 }
@@ -67,11 +67,76 @@ body {
     transition: transform 1s ease;
     display:flex;
     align-items:center;
-    opacity:1;
+    opacity:0;
     position: absolute;
 
 }
 .panel5{
+    border: 0;
+    font-size: 18px;
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    transition: transform 1s ease;
+    display:flex;
+    align-items:center;
+    opacity:0;
+    position:absolute;
+
+}
+.panel6{
+    border: 0;
+    font-size: 18px;
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    transition: transform 1s ease;
+    display:flex;
+    align-items:center;
+    opacity:1;
+    position:absolute;
+
+}
+.panel7{
+    border: 0;
+    font-size: 18px;
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    transition: transform 1s ease;
+    display:flex;
+    align-items:center;
+    opacity:1;
+    position:absolute;
+
+}
+.panel8{
+    border: 0;
+    font-size: 18px;
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    transition: transform 1s ease;
+    display:flex;
+    align-items:center;
+    opacity:1;
+    position:absolute;
+
+}
+.panel9{
+    border: 0;
+    font-size: 18px;
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    transition: transform 1s ease;
+    display:flex;
+    align-items:center;
+    opacity:1;
+    position:absolute;
+
+}
+.panel10{
     border: 0;
     font-size: 18px;
     padding: 15px;
