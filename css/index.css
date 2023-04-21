@@ -186,12 +186,12 @@ body {
 
 }
 .home.active .panel6{
-    transform: translatey(50px);
-    transform: translatex(50px);
+    transform: translatey(500px);
+    transform: translatex(500px);
 
 }
 .home.active .panel7{
-    transform: translatey(-50px);
+    transform: translatey(-500px);
 
 }
 .home.active .panel8{
