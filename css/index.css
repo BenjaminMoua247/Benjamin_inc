@@ -165,7 +165,7 @@ body {
     opacity: .5;
 }
 
-.btn.active {
+.home.active .btn{
     transform: translatex(100px);
 }
 
