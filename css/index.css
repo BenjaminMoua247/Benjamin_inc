@@ -19,7 +19,7 @@ body {
 }
 
 .btn{
-
+    opacity: 0;
 }
 .panel1{
     border: 0;
