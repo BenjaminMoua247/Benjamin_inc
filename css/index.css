@@ -18,9 +18,6 @@ body {
     position: relative;
 }
 
-.btn{
-    opacity: 0;
-}
 .panel1{
     border: 0;
     font-size: 18px;
@@ -165,10 +162,11 @@ body {
     width: 50px;
     transition: transform 1s ease;
     border-radius:50px;
+    opacity: .5;
 }
 
 .home.active .btn {
-    transform: translatex(100px);
+    transform: translate(100px, 100px);
 }
 
 .home.active .panel1{
