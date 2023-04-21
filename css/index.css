@@ -165,8 +165,8 @@ body {
     opacity: .5;
 }
 
-.home.active .btn {
-    transform: translate(100px, 100px);
+.btn.active {
+    transform: translatex(100px);
 }
 
 .home.active .panel1{
