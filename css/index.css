@@ -162,7 +162,7 @@ body {
     width: 50px;
     transition: transform 1s ease;
     border-radius:50px;
-    opacity: .5;
+    opacity: 1;
 }
 
 .home.active .btn{
@@ -186,7 +186,7 @@ body {
 
 }
 .home.active .panel5{
-    transform: translate(50px);
+    transform: translate(-100px);
 
 }
 .home.active .panel6{
